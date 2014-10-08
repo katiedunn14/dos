@@ -2,11 +2,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type: contect="text/html: charset=urf-8"/>
-	<title>DoS - The World</title> 
+	<title>Descendant-of-Spiral</title> 
+
 	<link rel="stylesheet" href="css/normalize.css" type="text/css" media="screen"> 
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen"> 
+	<link href='http://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
 
 </head>
-<body>
 
 
 
