@@ -8,6 +8,12 @@
 </head>
 <body>
 
+<h1>Planet Name</h1>
+
+<img src="img/map" alt="Map">
+
+<p> This is a brief description of the plant. It's very vague because most people don't know much about it.</p>
+
 
 
 
